@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maverick2502
+- 👋 Hi, I’m Nurullo :)
 - 👀 I’m interested in WebDev => Front-end
 - 🌱 I’m currently learning Astro
 - 💞️ I’m looking to collaborate on any kind of interesting projects
